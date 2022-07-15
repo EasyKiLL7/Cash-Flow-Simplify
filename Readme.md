@@ -2,7 +2,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="http://cashflow.epizy.com/">
+  <a href="http://cashflowsimplify.epizy.com/">
     <img src="image/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -11,7 +11,7 @@
   <p align="center">
     A cash settlement project for making easy cashflow by  reducing total transactions.
     <br />
-    <a href="http://cashflow.epizy.com/">View Demo</a>
+    <a href="http://cashflowsimplify.epizy.com/">View Demo</a>
     ·
     <a href="https://github.com/EasyKiLL7/Cash-Flow-Simplify/issues">Report Bug</a>
     ·
@@ -21,7 +21,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-The Project is simple and effective as you can see after ckicking on <a href="http://cashflow.epizy.com/">view demo</a> you will see a complicated graph representing the cash flow among different nodes(here nodes represents persons,)the edge between the two people represent the amount that has to be transacted between those people's. The problem statement is simple that we need to reduce the overall no of transactions between all of these people,also ensuring that the balance that each person had previously should be same.
+The Project is simple and effective as you can see after ckicking on <a href="http://cashflowsimplify.epizy.com/">view demo</a> you will see a complicated graph representing the cash flow among different nodes(here nodes represents persons,)the edge between the two people represent the amount that has to be transacted between those people's. The problem statement is simple that we need to reduce the overall no of transactions between all of these people,also ensuring that the balance that each person had previously should be same.
 </br>
 </br>
 So, as name suggest cash flow simplify, we can get simple solution or cashflow by clicking on Simplify Me button and to get new problem just click on Get New Problem.
